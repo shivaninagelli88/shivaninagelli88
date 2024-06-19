@@ -1,61 +1,33 @@
-Hi there, I'm Sai Shivani Nagelli👋
+<h1 align="center">Hi 👋, I'm Sai shivani Nagelli</h1>
+<h3 align="center">Frontend Developer | Creating Seamless User Experiences | Expert in HTML, CSS, JavaScript, and React</h3>
 
-Welcome to my GitHub profile! I am a passionate and driven third-year BTech student in Electronics and Communication Engineering (ECE) at Sreenidhi Institute of Science and Technology, with a CGPA of 9.05. I am expected to graduate in May 2025.
+- 🔭 I’m currently working on **Machine learning technologies, Blockchain includes web 3.o**
 
+- 🌱 I’m currently learning **Node.js,MongDB,Machine learning(Pandas,matlabplot,seaborn), web 3.0**
 
-## About Me
-- 🔭 I’m currently working on various projects, including:
-- blockchain projects- web3.0 
-- web development
-- Machine learning
-- 🌱 I’m currently learning and gaining skills in:
-  - Data analytics and visualization
-  - WEB 3.0 related technologies
-  - Machine learning using Python
-- 🤝 I’m looking to collaborate on:
-  - Full-stack applications using HTML, CSS, JavaScript, and Node.js
-  - Projects involving real-world APIs with Postman
-  - Blockchain projects
-- 💬 Ask me about:
-  - Technical content writing and creative designing
-  - Internships and project experiences
-- 📫 How to reach me:
-  - [Email](shivaninagelli1753@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/sai-shivani-nagelli-bb1566248/)
+- 👯 I’m looking to collaborate on **Frontend projects and creative designing**
 
-## Projects and Experience
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sai-shivani-nagelli-bb1566248/](https://www.linkedin.com/in/sai-shivani-nagelli-bb1566248/)
 
-### Recent Projects
+- 💬 Ask me about **Frontend development**
 
-- PGLIFE Website: A platform that simplifies the process of finding PG accommodation for students.
-- AI Text Summarizer: Developed using the Postman API to efficiently summarize large texts.
-- Radar dtector- Electronics project using arduino
+- 📫 How to reach me **shivaninagelli1753@gmail.com**
 
-### Internships
-- Salesforce Administrator: Completed several Salesforce Trailhead modules.
-- Web Development: Developed full-stack applications using HTML, CSS, JavaScript, and Node.js.
-- Centle: Creative Designing Intern
-  - Recognized as the top performer of the week.
-  - Created various types of content including Instagram posters, videos, and posts for a Placement Series.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xFott8DEttCYumXtpJuZ8f-LND0A2aXE/view?usp=sharing](https://drive.google.com/file/d/1xFott8DEttCYumXtpJuZ8f-LND0A2aXE/view?usp=sharing)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-shivani-nagelli-bb1566248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-shivani-nagelli-bb1566248" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shivani1753" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivani1753" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/shivani1753/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shivani1753/" height="30" width="40" /></a>
+</p>
 
-### Technical Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- Programming Languages: C++, Python, SQL, HTML, CSS, JavaScript
-- Technologies: Machine learning basics, Vector CANOE,Web 3.0
-- soft Skills: Group dynamics, time management, decision-making
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivaninagelli88&show_icons=true&locale=en&layout=compact" alt="shivaninagelli88" /></p>
 
-## Achievements
-- Top performer in the Centle designing internship
-- Top 10 in the Internshala training contest
-- Participation in Tata Imagination Challenge 2023
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivaninagelli88&show_icons=true&locale=en" alt="shivaninagelli88" /></p>
 
-## Professional Development
-- Member of clubs such as Bachpan Prayas college club and Emerging Computers Arena club
-- Organized events and sessions on topics like resume building and student jobs
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivaninagelli88&" alt="shivaninagelli88" /></p>
 
-## GitHub Stats
-
-
-
-Thank you for visiting my GitHub profile! Let's connect and collaborate on exciting projects!
