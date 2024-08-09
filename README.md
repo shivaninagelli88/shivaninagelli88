@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sai shivani Nagelli</h1>
 <h3 align="center">Frontend Developer | Creating Seamless User Experiences | Expert in HTML, CSS, JavaScript, and React</h3>
 
-- 🔭 I’m currently working on **Machine learning technologies, Blockchain includes web 3.o**
+- 🔭 I’m currently working on **Machine learning technologies, Problem solving**
 
-- 🌱 I’m currently learning **Node.js,MongDB,Machine learning(Pandas,matlabplot,seaborn), web 3.0**
+- 🌱 I’m currently learning **Node.js,MongDB,Machine learning(Pandas,matlabplot,seaborn)**
 
 - 👯 I’m looking to collaborate on **Frontend projects and creative designing**
 
