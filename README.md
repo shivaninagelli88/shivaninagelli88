@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sai shivani Nagelli</h1>
 <h3 align="center">Frontend Developer | Creating Seamless User Experiences | Expert in HTML, CSS, JavaScript, and React</h3>
 
-- 🔭 I’m currently working on **Machine learning technologies, Problem solving**
+- 🔭 I’m currently working on **MERN stack development, Machine learning technologies, Problem solving**
 
-- 🌱 I’m currently learning **Node.js,MongDB,Machine learning(Pandas,matlabplot,seaborn)**
+- 🌱 I’m currently learning **Full stack development (MERN)A,Machine learning(Pandas,matlabplot,seaborn)**
 
-- 👯 I’m looking to collaborate on **Frontend projects and creative designing**
+- 👯 I’m looking to collaborate on **FULL stack projects and creative designing**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sai-shivani-nagelli-bb1566248/](https://www.linkedin.com/in/sai-shivani-nagelli-bb1566248/)
 
