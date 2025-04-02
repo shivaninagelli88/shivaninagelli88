@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN stack development, Machine learning technologies, Problem solving**
 
-- 🌱 I’m currently learning **Full stack development (MERN)A,Machine learning(Pandas,matlabplot,seaborn)**
+- 🌱 I’m currently learning **MERN stack development,Machine learning(Pandas,matlabplot,seaborn)**
 
 - 👯 I’m looking to collaborate on **FULL stack projects and creative designing**
 
